@@ -101,7 +101,7 @@ This project is covered under the license included in `LICENSE.md`.
 If you reference this study, please cite:
 
 ```
-Nida, Russell. “Leveraging LMM Bias: A Systematic Multi-Model Divergence Study.” 2025. GitHub Repository.
+Nida, Russell. “Multi-Model Reasoning Analysis: Leveraging Divergence as Signal.” 2025. GitHub Repository.
 ```
 
 ---
