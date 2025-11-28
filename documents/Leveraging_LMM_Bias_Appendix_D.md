@@ -7,9 +7,7 @@ Nida, R. (2025). Multi-Model Reasoning Analysis: Leveraging Divergence
 
 as Signal. Technical Report
 
-# **Contents** {#contents .TOC-Heading}
-
-[Appendix D -- Raw Scoring Tables and Model Outputs
+[Appendix D -- Raw Scoring Tables
 [1](#appendix-d-raw-scoring-tables-and-model-outputs)](#appendix-d-raw-scoring-tables-and-model-outputs)
 
 [D-1 - Argument 1: Evolution & Biodiversity (Scientific Explanation)
@@ -1806,3 +1804,4 @@ These domains expose **deep reasoning-style differences**.
   **DeepSeek**   Hardline          Strictest, most sensitive to assumptions,
                  Formalist         largest verdict swings
   ----------------------------------------------------------------------------
+
